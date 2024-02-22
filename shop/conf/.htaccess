@@ -1,0 +1,14 @@
+<Files lang.php>
+    Order deny,allow
+    Deny from all
+</Files>
+
+<Files magento.php>
+    Order deny,allow
+    Deny from all
+</Files>
+
+<Files cookie.json>
+    Order deny,allow
+    Deny from all
+</Files>

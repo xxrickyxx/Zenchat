@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /ajax/
+Disallow: /models/
+Disallow: /controllers/
+Disallow: /fonts/
+Disallow: /js/
+Disallow: /conn/
+Disallow: /bin/
+Disallow: /assets/
+Disallow: /vendor/
+Disallow: /scss/
+Disallow: /css/

@@ -1,0 +1,19 @@
+{
+    "name": "ricky/kloe",
+    "description": "AI BOT",
+    "require": {
+        "php-ai/php-ml": "^0.10.0",
+        "nlp-tools/nlp-tools": "1.0.x-dev"
+    },
+    "type": "project",
+    "authors": [
+        {
+            "name": "Ricky",
+            "email": "sparacinoriccardo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "config": {
+        "bin-dir": "bin"
+    }
+}
